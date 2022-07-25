@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VisitingCard</string>
+    <string name="Name">Surankan Chakraborty</string>
+    <string name="CompanyName">Microsoft</string>
+    <string name="JobTitle">Front End Developere</string>
+    <string name="PhoneNo">+91 9883559398</string>
+    <string name="Address">Outer Ring Road,\nNagawara,\nBengaluru,\nKarnataka 560045</string>
+    <string name="Email">cksu564@gmail.com</string>
+    <string name="Website">surankan.com</string>
+    <string name="Fax">+91-80-1234567</string>
+</resources>
